@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fachri Maulana Pakpahan
+# 👋 Hi, I'm Maul
 
 🚀 Software Engineer | Senior Frontend Developer
 💻 5+ Years Experience | Building Scalable Web & Mobile Apps
