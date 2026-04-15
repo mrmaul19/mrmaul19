@@ -72,23 +72,23 @@ Currently:
 
 ---
 
-## 📊 GitHub Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=mrmaul19\&theme=tokyonight\&no-frame=true\&row=1\&column=6)
-
----
-
 ## 📈 GitHub Stats
 
-![Fachri GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmaul19\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=mrmaul19&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaul19\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaul19&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mrmaul19\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=mrmaul19&theme=tokyonight)
+
+---
+
+## 🏆 Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mrmaul19&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
