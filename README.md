@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maul
 
-🚀 Software Engineer | Senior Frontend Developer
+🚀 Software Engineer 
 💻 5+ Years Experience | Building Scalable Web & Mobile Apps
 📍 Indonesia
 
