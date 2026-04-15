@@ -14,9 +14,8 @@ I specialize in frontend development but also have hands-on experience in backen
 
 Currently:
 
-* 🚀 Building POS (Point of Sales) system for real business
 * 🤖 Learning AI & Data-driven systems
-* ⚙️ Exploring Golang microservices & system design
+* ⚙️ Exploring system design
 
 ---
 
@@ -26,9 +25,8 @@ Currently:
 
 * React.js
 * Next.js
-* TypeScript
-* Tailwind CSS
-* Bootstrap
+* Vue.js
+* Angular.js
 
 ### ⚙️ Backend
 
@@ -38,43 +36,14 @@ Currently:
 ### 📱 Mobile
 
 * Flutter
+* Ionic
+* React Native
 
 ### 🗄️ Database
 
 * MySQL
 * PostgreSQL
-
----
-
-## 🔥 Featured Projects
-
-### 🛒 POS Coffee Shop System
-
-A complete cashier system with:
-
-* Multi payment integration (QRIS, E-Wallet)
-* Product & SKU management
-* Dashboard analytics
-
----
-
-### 📊 Digital Library Analytics Dashboard
-
-Built using Next.js & PostgreSQL:
-
-* Books & lending management
-* Data visualization dashboard
-* JWT Authentication
-
----
-
-### 🚚 Logistics Management Service
-
-Microservice-based backend system:
-
-* Search logistics (origin & destination)
-* Secure API with JWT
-* Clean architecture with Golang Fiber
+* Mongo DB
 
 ---
 
@@ -116,9 +85,9 @@ I love building real-world products that solve business problems — not just tu
 
 ## 📫 Contact Me
 
-* 📧 Email: (isi email kamu)
-* 💼 LinkedIn: (isi linkedin kamu)
-* 🌐 Portfolio: https://testingfachri.my.id
+* 📧 Email: Zentriumlabs@proton.me
+* 💼 LinkedIn: /maulmau19
+* 🌐 Portfolio: [https://testingfachri.my.id](https://new-portofolio-nine-phi.vercel.app/)
 
 ---
 
