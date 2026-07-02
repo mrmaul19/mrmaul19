@@ -145,8 +145,6 @@ I focus on building real-world applications that solve business problems and sca
 ## 📫 Contact Me
 
 * 📧 Email: [Zentriumlabs@proton.me](mailto:Zentriumlabs@proton.me)
-* 💼 LinkedIn: https://linkedin.com/in/maulmau19
-* 🌐 Portfolio: https://new-portofolio-nine-phi.vercel.app/
 
 ---
 
